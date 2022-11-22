@@ -4,7 +4,7 @@
 ```python
 python -m venv .venv
 ```
-### Activate the env
+### Activate the env (Run for every new Terminal)
 
 ```python
 . .venv/Scripts/activate
